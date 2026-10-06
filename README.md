@@ -49,10 +49,14 @@ grayscale specimen board, not a palette.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Grayscale**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Utility**. Install Borozdov Utility under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Grayscale** under Style Settings → Borozdov Utility → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/grayscale/releases/latest)
 into `<vault>/.obsidian/themes/Borozdov Grayscale/`, then choose Borozdov Grayscale under
 Settings → Appearance → Themes.
@@ -76,5 +80,4 @@ MIT — see [LICENSE](LICENSE).
 комнате погас свет. Ни одного оттенка: единственный «цвет» на странице — почти чёрные
 чернила, всё остальное — ступени серого. Гуманистический рубленый Linux Biolinum несёт
 заголовок и два верхних уровня подзаголовков, платформенный шрифт — всё остальное.
-Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Grayscale
-→ Установить и применить.
+В каталоге тема живёт вариантом Borozdov Utility: установите Borozdov Utility и плагин Style Settings, затем выберите Grayscale в Style Settings → Borozdov Utility → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
